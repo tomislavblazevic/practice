@@ -32,7 +32,8 @@ p:nth-of-type(3) {
     font-size:large;
     font-weight: 700;
     text-decoration-color: aqua;
-    
+    color: brown;
+
 }
 p:nth-of-type(4) {
     background-color: rgb(164, 190, 206);
