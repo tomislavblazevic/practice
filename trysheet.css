@@ -1,0 +1,35 @@
+
+* {
+    flex-direction: column;
+    margin-top: 10px;
+    padding:0;
+    text-align:center;
+    align-items: center;
+    background-color:rgb(167, 181, 197);
+    
+}
+h1 {
+    color: rgb(129, 57, 57);
+    text-shadow: 1cm;
+    background-color: rgb(170, 208, 241);
+}
+h3 {
+    font-family:'Special Elite', cursive;
+    background-color: antiquewhite;
+
+}
+
+p:first-of-type {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: antiquewhite;
+}
+p:nth-of-type(2) {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(157, 209, 192);
+}
+p:last-of-type {
+    font-family:'Special Elite', cursive;
+    font-size: smaller;
+    background-color:rgb(171, 231, 231);
+
+}
