@@ -1,5 +1,4 @@
-
-const hour = new Date().getHours(); 
+const hour = new Date().getHours();
 let greeting;
 
 if (hour < 18) {

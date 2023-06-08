@@ -1,50 +1,46 @@
-
 * {
-    flex-direction: column;
-    margin-top: 10px;
-    padding:0;
-    text-align:center;
-    align-items: center;
-    background-color:rgb(167, 181, 197);
-    
+  flex-direction: column;
+  margin-top: 10px;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(167, 181, 197);
 }
 h1 {
-    color: rgb(129, 57, 57);
-    text-shadow: 1cm;
-    background-color: rgb(170, 208, 241);
+  color: rgb(129, 57, 57);
+  text-shadow: 1cm;
+  background-color: rgb(170, 208, 241);
 }
 h3 {
-    font-family:'Special Elite', cursive;
-    background-color: antiquewhite;
-
+  font-family: "Special Elite", cursive;
+  background-color: antiquewhite;
 }
 
 p:first-of-type {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: antiquewhite;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: antiquewhite;
 }
 p:nth-of-type(2) {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(174, 248, 223);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(174, 248, 223);
 }
 p:nth-of-type(3) {
-    background-color:rgb(139, 184, 184); 
-    font-size:large;
-    font-weight: 700;
-    text-decoration-color: aqua;
-    color: brown;
-
+  background-color: rgb(139, 184, 184);
+  font-size: large;
+  font-weight: 700;
+  text-decoration-color: aqua;
+  color: brown;
 }
 p:nth-of-type(4) {
-    background-color: rgb(164, 190, 206);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: smaller;
+  background-color: rgb(164, 190, 206);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: smaller;
 }
 p:last-of-type {
-    font-family:'Special Elite', cursive;
-    font-size: smaller;
-    background-color:rgb(134, 247, 247);
-    text-decoration-style: solid;
-    justify-items: end;
-    float: left;
+  font-family: "Special Elite", cursive;
+  font-size: smaller;
+  background-color: rgb(134, 247, 247);
+  text-decoration-style: solid;
+  justify-items: end;
+  float: left;
 }
