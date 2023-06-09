@@ -1,4 +1,4 @@
-* {
+* body {
   flex-direction: column;
   margin-top: 10px;
   padding: 0;
@@ -35,6 +35,8 @@ p:nth-of-type(4) {
   background-color: rgb(164, 190, 206);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: smaller;
+  justify-items: end;
+  float: right;
 }
 p:last-of-type {
   font-family: "Special Elite", cursive;
@@ -42,5 +44,5 @@ p:last-of-type {
   background-color: rgb(134, 247, 247);
   text-decoration-style: solid;
   justify-items: end;
-  float: left;
+  align-items: center;
 }
